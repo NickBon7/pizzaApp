@@ -1,4 +1,4 @@
-## live view : https://pizza-app-by-nick.herokuapp.com/
+## Live view : https://pizza-app-by-nick.herokuapp.com/
 
 ## Available Scripts
 
