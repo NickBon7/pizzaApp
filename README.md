@@ -1,4 +1,4 @@
-## Live view : https://pizza-app-by-nick.herokuapp.com/
+## Live view : https://pizza-4b49d1phv-nickbon.vercel.app/
 
 ## Available Scripts
 
